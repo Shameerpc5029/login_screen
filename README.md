@@ -1,16 +1,3 @@
 # login_screen
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-04-13 at 17 23 15](https://user-images.githubusercontent.com/92718077/231750568-0918ca3d-fea9-43fd-ad07-945a6fb57372.png)
